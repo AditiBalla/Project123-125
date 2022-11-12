@@ -1,0 +1,29 @@
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px deeppink;
+}
+
+.note{
+    color: palevioletred;
+    font-size: 18px;
+}
+
+.copy_footer{
+    position: fixed;
+    width: 100%;
+    background-color: darkseagreen;
+    color:darkolivegreen;
+    font-size: 23px;
+    bottom: 0;
+    line-height: 3
+}
+
+canvas{
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: darkturquoise;
+    border-style: inset;
+    box-shadow: 5px 5px 5px yellow;
+}
